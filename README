@@ -105,7 +105,7 @@ BUGS
     <http://rt.cpan.org/Dist/Display.html?Queue=Sub-Talisman>.
 
 SEE ALSO
-    attributes, Attribute::Handlers.
+    attributes, Attribute::Handlers, Sub::Talisman::Struct.
 
 AUTHOR
     Toby Inkster <tobyink@cpan.org>.

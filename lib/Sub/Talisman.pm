@@ -6,7 +6,7 @@ use warnings;
 
 BEGIN {
 	$Sub::Talisman::AUTHORITY = 'cpan:TOBYINK';
-	$Sub::Talisman::VERSION   = '0.001';
+	$Sub::Talisman::VERSION   = '0.002';
 }
 
 use Attribute::Handlers;
@@ -256,7 +256,7 @@ L<http://rt.cpan.org/Dist/Display.html?Queue=Sub-Talisman>.
 
 =head1 SEE ALSO
 
-L<attributes>, L<Attribute::Handlers>.
+L<attributes>, L<Attribute::Handlers>, L<Sub::Talisman::Struct>.
 
 =head1 AUTHOR
 
