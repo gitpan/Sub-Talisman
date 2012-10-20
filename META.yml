@@ -33,4 +33,4 @@ resources:
   homepage: https://metacpan.org/release/Sub-Talisman
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-sub-talisman
-version: 0.002
+version: 0.003
