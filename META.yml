@@ -23,6 +23,7 @@ no_index:
     - t
     - xt
 requires:
+  Attribute::Handlers: 0.79
   Scalar::Does: 0.002
   Sub::Identify: 0
   Sub::Name: 0
@@ -33,4 +34,4 @@ resources:
   homepage: https://metacpan.org/release/Sub-Talisman
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-sub-talisman
-version: 0.003
+version: 0.004
